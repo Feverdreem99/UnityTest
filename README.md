@@ -42,7 +42,7 @@ Para todo commit que se haga se debera agregar un titulo y una descripcion, es p
 
 # Cuidados importantes:
 
-1) El orden en el que se deben utilizar estos comandos es: Commit, Fetch(Opcional), Pull y finalmente Push
+1) El orden en el que se deben utilizar estos comandos es: Fetch(Opcional), Commit, Pull y finalmente Push
 
 2) Es importante que siempre hagamos pull antes de hacer push, asi existira siempre de manera local una copia de la version anterior a los cambios.
 
